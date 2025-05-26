@@ -938,7 +938,9 @@
             [
                 "tap",
                 "LSFT(KC_EQUAL)",
+                "KC_SPACE",
                 "LSFT(KC_EQUAL)",
+                "KC_SPACE",
                 "LSFT(KC_EQUAL)",
                 "KC_SPACE",
                 "KC_ENTER"
