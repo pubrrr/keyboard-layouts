@@ -224,7 +224,7 @@
                 "KC_P"
             ],
             [
-                "TD(4)",
+                "TD(5)",
                 "RGUI_T(KC_H)",
                 "LALT_T(KC_R)",
                 "RSFT_T(KC_N)",
@@ -1070,12 +1070,12 @@
             "KC_NO",
             "KC_NO",
             "KC_MINUS",
-            200
+            150
         ],
         [
+            "KC_MINUS",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
+            "KC_SLASH",
             "KC_NO",
             200
         ],
@@ -1264,11 +1264,11 @@
     ],
     "combo": [
         [
+            "KC_S",
+            "KC_I",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_Q"
         ],
         [
             "KC_NO",
@@ -1780,7 +1780,7 @@
     ],
     "settings": {
         "1": 0,
-        "2": 50,
+        "2": 200,
         "3": 0,
         "4": 175,
         "5": 5,
