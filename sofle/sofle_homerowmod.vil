@@ -1264,53 +1264,53 @@
     ],
     "combo": [
         [
-            "KC_S",
-            "KC_I",
+            "KC_Z",
+            "KC_U",
             "KC_NO",
             "KC_NO",
-            "KC_Q"
+            "LSFT(KC_8)"
         ],
         [
+            "KC_X",
+            "KC_LBRACKET",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "RALT(KC_7)"
         ],
         [
+            "KC_M",
+            "KC_L",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "LSFT(KC_9)"
         ],
         [
+            "KC_COMMA",
+            "KC_DOT",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "RALT(KC_0)"
         ],
         [
+            "KC_Y",
+            "KC_Z",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_ESCAPE"
         ],
         [
+            "LALT_T(KC_S)",
+            "LSFT_T(KC_I)",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "RALT(KC_8)"
         ],
         [
+            "RSFT_T(KC_N)",
+            "LALT_T(KC_R)",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "RALT(KC_9)"
         ],
         [
             "KC_NO",
@@ -1780,7 +1780,7 @@
     ],
     "settings": {
         "1": 0,
-        "2": 200,
+        "2": 50,
         "3": 0,
         "4": 175,
         "5": 5,
