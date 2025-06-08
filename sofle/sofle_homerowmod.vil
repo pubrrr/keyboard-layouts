@@ -326,7 +326,7 @@
                 "KC_TRNS",
                 "KC_KP_DOT",
                 "KC_KP_0",
-                "KC_TRNS",
+                "0x7c7b",
                 "KC_TRNS"
             ]
         ],
@@ -406,9 +406,9 @@
             [
                 "KC_DELETE",
                 "KC_TRNS",
-                "KC_INSERT",
                 "KC_DELETE",
                 "KC_BSPACE",
+                "0x7c7b",
                 "KC_TRNS"
             ]
         ],
@@ -450,7 +450,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
+                "0x7c7b",
                 "KC_TRNS"
             ],
             [
