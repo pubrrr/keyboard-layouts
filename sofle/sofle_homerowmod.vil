@@ -20,7 +20,7 @@
                 "KC_Q"
             ],
             [
-                "KC_TRNS",
+                "KC_LCTRL",
                 "LGUI_T(KC_C)",
                 "LALT_T(KC_S)",
                 "LSFT_T(KC_I)",
@@ -28,7 +28,7 @@
                 "KC_O"
             ],
             [
-                "KC_TRNS",
+                "KC_LSHIFT",
                 "KC_V",
                 "KC_X",
                 "KC_LBRACKET",
@@ -68,7 +68,7 @@
                 "KC_D"
             ],
             [
-                "KC_TRNS",
+                "KC_RSHIFT",
                 "KC_K",
                 "KC_DOT",
                 "KC_COMMA",
