@@ -38,9 +38,9 @@
             [
                 "KC_LALT",
                 "KC_LGUI",
-                "TT(3)",
-                "TT(4)",
-                "KC_ENTER",
+                "MO(3)",
+                "MO(4)",
+                "LT3(KC_ENTER)",
                 "KC_NO"
             ],
             [
@@ -78,8 +78,8 @@
             [
                 "KC_BSPACE",
                 "KC_RALT",
-                "TT(6)",
-                "TT(5)",
+                "MO(6)",
+                "MO(5)",
                 "KC_SPACE",
                 "KC_NO"
             ]
@@ -1299,18 +1299,18 @@
             "KC_ESCAPE"
         ],
         [
-            "LALT_T(KC_S)",
-            "LSFT_T(KC_I)",
             "KC_NO",
             "KC_NO",
-            "RALT(KC_8)"
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
         ],
         [
-            "RSFT_T(KC_N)",
-            "LALT_T(KC_R)",
             "KC_NO",
             "KC_NO",
-            "RALT(KC_9)"
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
         ],
         [
             "KC_NO",
@@ -1780,7 +1780,7 @@
     ],
     "settings": {
         "1": 0,
-        "2": 45,
+        "2": 40,
         "3": 0,
         "4": 175,
         "5": 5,
