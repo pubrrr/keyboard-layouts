@@ -1025,8 +1025,19 @@
                 "KC_ENTER"
             ]
         ],
-        [],
-        [],
+        [
+            [
+                "tap",
+                "KC_E",
+                "KC_A"
+            ]
+        ],
+        [
+            [
+                "text",
+                "oa"
+            ]
+        ],
         [],
         [],
         [],
@@ -1299,25 +1310,25 @@
             "KC_ESCAPE"
         ],
         [
+            "LALT_T(KC_S)",
+            "KC_A",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "M8"
         ],
         [
+            "KC_A",
+            "KC_Z",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "M8"
         ],
         [
+            "LSFT_T(KC_I)",
+            "KC_O",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "M9"
         ],
         [
             "KC_NO",
