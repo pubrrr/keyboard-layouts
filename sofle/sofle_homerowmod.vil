@@ -344,7 +344,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
+                "KC_PSCREEN",
                 "KC_TRNS"
             ],
             [
@@ -357,9 +357,9 @@
             ],
             [
                 "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
+                "DYN_REC_START1",
+                "DYN_REC_STOP",
+                "DYN_MACRO_PLAY1",
                 "KC_TRNS",
                 "KC_TRNS"
             ],
