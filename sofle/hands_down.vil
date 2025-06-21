@@ -15,7 +15,7 @@
                 "KC_TAB",
                 "TD(9)",
                 "KC_QUOTE",
-                "LSFT(KC_0)",
+                "LSFT(KC_NONUS_HASH)",
                 "KC_DOT",
                 "KC_SCOLON"
             ],
@@ -95,33 +95,33 @@
             ],
             [
                 "KC_TRNS",
-                "TD(9)",
-                "KC_QUOTE",
-                "LSFT(KC_0)",
-                "KC_DOT",
-                "KC_SCOLON"
-            ],
-            [
                 "KC_TRNS",
-                "KC_C",
-                "KC_A",
-                "KC_E",
-                "KC_I",
-                "KC_COMMA"
-            ],
-            [
+                "LSFT(KC_7)",
                 "KC_TRNS",
-                "KC_B",
-                "KC_Z",
-                "KC_O",
-                "KC_U",
-                "TD(5)"
+                "KC_TRNS",
+                "LSFT(KC_0)"
             ],
             [
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "LT4(KC_R)",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_SLASH"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS"
             ],
@@ -134,28 +134,28 @@
                 "KC_TRNS"
             ],
             [
-                "KC_MINUS",
-                "KC_V",
-                "KC_W",
-                "KC_D",
-                "KC_M",
-                "KC_X"
-            ],
-            [
-                "KC_Y",
-                "KC_S",
-                "KC_N",
-                "KC_T",
-                "KC_H",
-                "KC_K"
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
             ],
             [
                 "KC_TRNS",
-                "KC_F",
-                "KC_P",
-                "KC_G",
-                "KC_L",
-                "KC_J"
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
             ],
             [
                 "KC_TRNS",
@@ -836,12 +836,12 @@
         ],
         [
             [
-                "0xfe03",
-                "LCTL(KC_NO)"
+                "KC_TRNS",
+                "KC_TRNS"
             ],
             [
-                "0xfe03",
-                "LCTL(KC_TRNS)"
+                "KC_TRNS",
+                "KC_TRNS"
             ]
         ],
         [
