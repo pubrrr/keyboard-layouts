@@ -24,11 +24,11 @@
                 "KC_C",
                 "KC_A",
                 "KC_E",
-                "KC_I",
+                "LCTL_T(KC_I)",
                 "KC_COMMA"
             ],
             [
-                "KC_LSHIFT",
+                "OSM(MOD_LSFT)",
                 "KC_B",
                 "KC_Z",
                 "KC_O",
@@ -68,7 +68,7 @@
                 "KC_K"
             ],
             [
-                "KC_RSHIFT",
+                "OSM(MOD_RSFT)",
                 "KC_F",
                 "KC_P",
                 "KC_G",
@@ -836,12 +836,12 @@
         ],
         [
             [
-                "KC_TRNS",
-                "KC_TRNS"
+                "0xfe03",
+                "LCTL(KC_NO)"
             ],
             [
-                "KC_TRNS",
-                "KC_TRNS"
+                "0xfe03",
+                "LCTL(KC_TRNS)"
             ]
         ],
         [
@@ -1035,7 +1035,7 @@
         [
             [
                 "text",
-                "oa"
+                "qu"
             ]
         ],
         [],
