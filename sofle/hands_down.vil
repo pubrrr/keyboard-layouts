@@ -262,22 +262,22 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
+                "KC_PSCREEN",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
+                "KC_LGUI",
+                "KC_TRNS",
+                "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS"
             ],
             [
                 "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS"
-            ],
-            [
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
+                "DYN_REC_START1",
+                "DYN_REC_STOP",
+                "DYN_MACRO_PLAY1",
                 "KC_TRNS",
                 "KC_TRNS"
             ],
@@ -341,10 +341,10 @@
             ],
             [
                 "KC_TRNS",
+                "LCTL(KC_Z)",
+                "LCTL(KC_W)",
+                "LCTL(KC_A)",
                 "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_PSCREEN",
                 "KC_TRNS"
             ],
             [
@@ -357,10 +357,10 @@
             ],
             [
                 "KC_TRNS",
-                "DYN_REC_START1",
-                "DYN_REC_STOP",
-                "DYN_MACRO_PLAY1",
-                "KC_TRNS",
+                "LCTL(KC_Y)",
+                "LCTL(KC_X)",
+                "LCTL(KC_C)",
+                "LCTL(KC_V)",
                 "KC_TRNS"
             ],
             [
