@@ -36,7 +36,7 @@
                 "TD(5)"
             ],
             [
-                "KC_LALT",
+                "KC_LCTRL",
                 "KC_LGUI",
                 "MO(3)",
                 "LT4(KC_R)",
@@ -1496,13 +1496,13 @@
     ],
     "key_override": [
         {
-            "trigger": "KC_NO",
-            "replacement": "KC_NO",
+            "trigger": "TD(9)",
+            "replacement": "KC_Q",
             "layers": 65535,
-            "trigger_mods": 0,
+            "trigger_mods": 17,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
-            "options": 7
+            "options": 135
         },
         {
             "trigger": "KC_NO",
