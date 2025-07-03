@@ -344,7 +344,7 @@
                 "LCTL(KC_Z)",
                 "LCTL(KC_W)",
                 "LCTL(KC_A)",
-                "KC_TRNS",
+                "LCTL(KC_D)",
                 "KC_TRNS"
             ],
             [
@@ -671,8 +671,8 @@
                 "KC_TRNS",
                 "LCTL(KC_Z)",
                 "LCTL(KC_W)",
-                "KC_TRNS",
-                "KC_TRNS",
+                "LCTL(KC_A)",
+                "LCTL(KC_D)",
                 "KC_TRNS"
             ],
             [
@@ -1512,13 +1512,13 @@
             "options": 135
         },
         {
-            "trigger": "KC_NO",
-            "replacement": "KC_NO",
-            "layers": 65535,
-            "trigger_mods": 0,
+            "trigger": "LSFT(KC_NONUS_HASH)",
+            "replacement": "LSFT(KC_2)",
+            "layers": 3,
+            "trigger_mods": 34,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
-            "options": 7
+            "options": 135
         },
         {
             "trigger": "KC_NO",
