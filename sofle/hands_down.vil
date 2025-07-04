@@ -1291,18 +1291,18 @@
             "KC_ESCAPE"
         ],
         [
+            "KC_D",
+            "KC_W",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_BSPACE"
         ],
         [
+            "KC_G",
+            "KC_P",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_DELETE"
         ],
         [
             "KC_NO",
