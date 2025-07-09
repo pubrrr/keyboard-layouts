@@ -14,8 +14,8 @@
             [
                 "KC_TAB",
                 "TD(9)",
-                "LSFT(KC_NONUS_HASH)",
                 "KC_QUOTE",
+                "LSFT(KC_NONUS_HASH)",
                 "KC_DOT",
                 "KC_SCOLON"
             ],
@@ -96,8 +96,8 @@
             [
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
                 "LSFT(KC_7)",
+                "KC_TRNS",
                 "KC_TRNS",
                 "LSFT(KC_0)"
             ],
