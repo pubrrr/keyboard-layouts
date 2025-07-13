@@ -45,7 +45,7 @@
             ],
             [
                 "KC_BSPACE",
-                "TD(2)",
+                "KC_0",
                 "KC_9",
                 "KC_8",
                 "KC_7",
@@ -1063,23 +1063,23 @@
     "tap_dance": [
         [
             "KC_NO",
-            "MO(2)",
-            "TG(2)",
+            "KC_NO",
+            "KC_NO",
             "KC_NO",
             100
         ],
         [
-            "KC_S",
-            "KC_LALT",
             "KC_NO",
-            "KC_MINUS",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
             200
         ],
         [
-            "KC_0",
             "KC_NO",
-            "LSFT(KC_MINUS)",
-            "KC_MINUS",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
             160
         ],
         [
