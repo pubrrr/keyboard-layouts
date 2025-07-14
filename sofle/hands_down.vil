@@ -17,7 +17,7 @@
                 "KC_QUOTE",
                 "LSFT(KC_NONUS_HASH)",
                 "KC_DOT",
-                "KC_SCOLON"
+                "TD(6)"
             ],
             [
                 "MO(8)",
@@ -99,7 +99,7 @@
                 "LSFT(KC_7)",
                 "KC_TRNS",
                 "KC_TRNS",
-                "LSFT(KC_0)"
+                "LSFT(KC_MINUS)"
             ],
             [
                 "KC_TRNS",
@@ -353,7 +353,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS"
+                "LCTL(KC_F)"
             ],
             [
                 "KC_TRNS",
@@ -681,7 +681,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS"
+                "LCTL(KC_F)"
             ],
             [
                 "KC_TRNS",
@@ -1104,9 +1104,9 @@
             200
         ],
         [
+            "KC_SCOLON",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
+            "LSFT(KC_MINUS)",
             "KC_NO",
             200
         ],
@@ -1316,11 +1316,11 @@
             "KC_DELETE"
         ],
         [
+            "LSFT(KC_NONUS_HASH)",
+            "KC_DOT",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_TAB"
         ],
         [
             "KC_NO",
