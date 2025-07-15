@@ -345,7 +345,7 @@
                 "LCTL(KC_W)",
                 "LCTL(KC_A)",
                 "LCTL(KC_D)",
-                "KC_TRNS"
+                "LCTL(KC_T)"
             ],
             [
                 "KC_TRNS",
@@ -361,7 +361,7 @@
                 "LCTL(KC_X)",
                 "LCTL(KC_C)",
                 "LCTL(KC_V)",
-                "KC_TRNS"
+                "LCTL(KC_KP_SLASH)"
             ],
             [
                 "KC_TRNS",
@@ -1316,8 +1316,8 @@
             "KC_DELETE"
         ],
         [
-            "LSFT(KC_NONUS_HASH)",
-            "KC_DOT",
+            "KC_Z",
+            "KC_O",
             "KC_NO",
             "KC_NO",
             "KC_TAB"
@@ -1818,7 +1818,7 @@
         {
             "keycode": "KC_K",
             "alt_keycode": "KC_L",
-            "allowed_mods": 0,
+            "allowed_mods": 34,
             "options": 10
         },
         {
@@ -1840,7 +1840,7 @@
             "options": 8
         },
         {
-            "keycode": "KC_A",
+            "keycode": "LALT_T(KC_A)",
             "alt_keycode": "KC_Z",
             "allowed_mods": 0,
             "options": 10
