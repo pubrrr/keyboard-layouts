@@ -13,7 +13,7 @@
             ],
             [
                 "KC_TAB",
-                "TD(9)",
+                "USER01",
                 "KC_QUOTE",
                 "LSFT(KC_NONUS_HASH)",
                 "KC_DOT",
@@ -1876,10 +1876,10 @@
             "options": 8
         },
         {
-            "keycode": "KC_NO",
-            "alt_keycode": "KC_NO",
-            "allowed_mods": 0,
-            "options": 0
+            "keycode": "USER01",
+            "alt_keycode": "KC_BSPACE",
+            "allowed_mods": 34,
+            "options": 8
         },
         {
             "keycode": "KC_NO",
