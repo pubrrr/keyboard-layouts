@@ -39,7 +39,7 @@
                 "KC_LCTRL",
                 "KC_LGUI",
                 "MO(3)",
-                "LT4(KC_R)",
+                "KC_SPACE",
                 "LT3(KC_ENTER)",
                 "KC_NO"
             ],
@@ -79,8 +79,8 @@
                 "KC_DELETE",
                 "KC_RALT",
                 "OSL(5)",
-                "LT5(KC_F13)",
-                "LT6(KC_SPACE)",
+                "KC_R",
+                "QK_ALT_REPEAT_KEY",
                 "KC_NO"
             ]
         ],
@@ -177,74 +177,74 @@
             ],
             [
                 "KC_TAB",
-                "KC_Q",
-                "KC_W",
-                "KC_E",
-                "KC_R",
-                "KC_T"
+                "ALL_T(KC_Q)",
+                "LSFT(KC_NONUS_HASH)",
+                "KC_QUOTE",
+                "KC_TRNS",
+                "KC_TRNS"
             ],
             [
-                "KC_LCTRL",
-                "KC_A",
-                "LALT_T(KC_S)",
-                "LSFT_T(KC_D)",
-                "LCTL_T(KC_F)",
-                "KC_G"
+                "LT8(KC_K)",
+                "KC_H",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
             ],
             [
-                "KC_LSHIFT",
-                "KC_Z",
-                "KC_X",
-                "KC_C",
-                "KC_V",
-                "KC_B"
+                "KC_TRNS",
+                "LT4(KC_F)",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
             ],
             [
                 "KC_LALT",
                 "KC_LGUI",
                 "MO(3)",
-                "MO(4)",
+                "KC_SPACE",
                 "LT3(KC_ENTER)",
                 "KC_NO"
             ],
             [
                 "KC_BSPACE",
-                "TD(2)",
+                "KC_0",
                 "KC_9",
                 "KC_8",
                 "KC_7",
                 "KC_6"
             ],
             [
-                "KC_LBRACKET",
+                "KC_TRNS",
+                "KC_X",
                 "KC_P",
-                "KC_O",
-                "KC_I",
-                "KC_U",
-                "KC_Y"
-            ],
-            [
-                "KC_QUOTE",
-                "RGUI_T(KC_SCOLON)",
-                "LALT_T(KC_L)",
-                "RSFT_T(KC_K)",
-                "RCTL_T(KC_J)",
-                "KC_H"
-            ],
-            [
-                "KC_RSHIFT",
-                "KC_SLASH",
-                "KC_DOT",
-                "KC_COMMA",
+                "KC_D",
                 "KC_M",
-                "KC_N"
+                "KC_J"
+            ],
+            [
+                "KC_V",
+                "KC_R",
+                "KC_TRNS",
+                "KC_TRNS",
+                "RCTL_T(KC_S)",
+                "KC_B"
+            ],
+            [
+                "KC_TRNS",
+                "LT6(KC_L)",
+                "KC_W",
+                "KC_G",
+                "LT5(KC_C)",
+                "KC_Y"
             ],
             [
                 "KC_BSPACE",
                 "KC_RALT",
                 "MO(6)",
-                "MO(5)",
-                "KC_SPACE",
+                "QK_ALT_REPEAT_KEY",
+                "KC_TRNS",
                 "KC_NO"
             ]
         ],
@@ -1025,21 +1025,8 @@
                 "KC_ENTER"
             ]
         ],
-        [
-            [
-                "tap",
-                "KC_T",
-                "KC_Y",
-                "KC_T"
-            ]
-        ],
-        [
-            [
-                "tap",
-                "KC_Q",
-                "KC_U"
-            ]
-        ],
+        [],
+        [],
         [
             [
                 "tap",
@@ -1302,15 +1289,15 @@
             "KC_ESCAPE"
         ],
         [
-            "KC_D",
-            "KC_W",
             "KC_NO",
             "KC_NO",
-            "KC_BSPACE"
+            "KC_NO",
+            "KC_NO",
+            "KC_NO"
         ],
         [
             "KC_G",
-            "KC_P",
+            "KC_W",
             "KC_NO",
             "KC_NO",
             "KC_DELETE"
@@ -1323,11 +1310,11 @@
             "KC_TAB"
         ],
         [
+            "KC_D",
+            "KC_P",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_BSPACE"
         ],
         [
             "KC_NO",
@@ -1525,7 +1512,7 @@
         {
             "trigger": "LSFT(KC_NONUS_HASH)",
             "replacement": "LSFT(KC_2)",
-            "layers": 3,
+            "layers": 7,
             "trigger_mods": 34,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
@@ -1810,13 +1797,13 @@
             "options": 10
         },
         {
-            "keycode": "KC_R",
-            "alt_keycode": "KC_R",
+            "keycode": "KC_C",
+            "alt_keycode": "KC_H",
             "allowed_mods": 34,
             "options": 8
         },
         {
-            "keycode": "KC_K",
+            "keycode": "KC_R",
             "alt_keycode": "KC_L",
             "allowed_mods": 34,
             "options": 10
@@ -1828,10 +1815,10 @@
             "options": 10
         },
         {
-            "keycode": "KC_F",
-            "alt_keycode": "KC_Y",
+            "keycode": "KC_M",
+            "alt_keycode": "KC_B",
             "allowed_mods": 34,
-            "options": 8
+            "options": 10
         },
         {
             "keycode": "KC_T",
