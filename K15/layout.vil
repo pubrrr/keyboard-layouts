@@ -43,7 +43,7 @@
                 "M2",
                 "KC_TAB",
                 "TD(0)",
-                "LSFT(KC_SLASH)",
+                "LSFT(KC_NONUS_HASH)",
                 "LSFT(KC_7)",
                 "KC_DOT",
                 "LSFT(KC_MINUS)",
@@ -104,7 +104,7 @@
                 "MO(1)",
                 -1,
                 "QK_ALT_REPEAT_KEY",
-                "OSM(MOD_RALT)",
+                "OSL(1)",
                 "KC_RCTRL",
                 -1,
                 "KC_LEFT",
@@ -940,7 +940,7 @@
             "trigger_mods": 34,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
-            "options": 131
+            "options": 129
         },
         {
             "trigger": "KC_O",
