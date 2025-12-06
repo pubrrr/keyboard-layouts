@@ -19,7 +19,7 @@
                 "KC_F11",
                 "KC_F12",
                 "KC_INSERT",
-                "KC_DELETE"
+                "KC_PSCREEN"
             ],
             [
                 "M1",
@@ -37,7 +37,7 @@
                 "KC_MINUS",
                 "KC_EQUAL",
                 "KC_BSPACE",
-                "KC_PGUP"
+                "C_S(KC_KP_MINUS)"
             ],
             [
                 "M2",
@@ -55,7 +55,7 @@
                 "KC_MINUS",
                 "KC_RBRACKET",
                 "KC_BSLASH",
-                "KC_PGDOWN"
+                "C_S(KC_KP_PLUS)"
             ],
             [
                 "DF(2)",
@@ -73,7 +73,7 @@
                 "KC_R",
                 "KC_V",
                 "KC_ENTER",
-                "KC_HOME"
+                "LCTL(KC_KP_SLASH)"
             ],
             [
                 "DF(1)",
@@ -101,7 +101,7 @@
                 -1,
                 "KC_SPACE",
                 -1,
-                "MO(1)",
+                "OSL(1)",
                 -1,
                 "QK_ALT_REPEAT_KEY",
                 "OSL(1)",
@@ -152,7 +152,7 @@
             [
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
+                "RALT(KC_Q)",
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
@@ -179,7 +179,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
+                "M2",
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
@@ -429,7 +429,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 -1,
-                "KC_TRNS",
+                "QK_LAYER_LOCK",
                 -1,
                 "KC_TRNS",
                 -1,
@@ -687,8 +687,24 @@
                 "KC_H"
             ]
         ],
-        [],
-        [],
+        [
+            [
+                "tap",
+                "KC_N",
+                "KC_P",
+                "KC_M",
+                "KC_SPACE"
+            ]
+        ],
+        [
+            [
+                "tap",
+                "KC_R",
+                "KC_U",
+                "KC_N",
+                "KC_SPACE"
+            ]
+        ],
         [],
         [],
         [],
@@ -841,11 +857,11 @@
             "KC_TAB"
         ],
         [
-            "LSFT(KC_NONUS_HASH)",
+            "KC_F13",
+            "LSFT(KC_7)",
             "KC_NO",
             "KC_NO",
-            "KC_NO",
-            "KC_NO"
+            "KC_ESCAPE"
         ],
         [
             "KC_NO",
@@ -943,31 +959,31 @@
             "options": 9
         },
         {
-            "trigger": "KC_O",
-            "replacement": "KC_SCOLON",
+            "trigger": "KC_F14",
+            "replacement": "KC_U",
             "layers": 65535,
-            "trigger_mods": 64,
-            "negative_mod_mask": 0,
+            "trigger_mods": 0,
+            "negative_mod_mask": 64,
             "suppressed_mods": 0,
-            "options": 129
+            "options": 7
         },
         {
-            "trigger": "KC_U",
+            "trigger": "KC_F14",
             "replacement": "KC_LBRACKET",
             "layers": 65535,
             "trigger_mods": 64,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
-            "options": 129
+            "options": 7
         },
         {
             "trigger": "LALT_T(KC_A)",
             "replacement": "KC_QUOTE",
             "layers": 65535,
-            "trigger_mods": 64,
+            "trigger_mods": 68,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
-            "options": 129
+            "options": 1
         },
         {
             "trigger": "KC_F13",
@@ -1098,34 +1114,34 @@
             "options": 10
         },
         {
-            "keycode": "KC_NO",
-            "alt_keycode": "KC_NO",
+            "keycode": "M2",
+            "alt_keycode": "M3",
             "allowed_mods": 0,
-            "options": 0
+            "options": 8
         },
         {
-            "keycode": "KC_NO",
-            "alt_keycode": "KC_NO",
+            "keycode": "KC_D",
+            "alt_keycode": "KC_G",
             "allowed_mods": 0,
-            "options": 0
+            "options": 8
         },
         {
-            "keycode": "KC_NO",
-            "alt_keycode": "KC_NO",
+            "keycode": "LCTL_T(KC_I)",
+            "alt_keycode": "LT3(KC_U)",
             "allowed_mods": 0,
-            "options": 0
+            "options": 10
         },
         {
-            "keycode": "KC_NO",
-            "alt_keycode": "KC_NO",
+            "keycode": "LSFT_T(KC_E)",
+            "alt_keycode": "KC_O",
             "allowed_mods": 0,
-            "options": 0
+            "options": 10
         },
         {
-            "keycode": "KC_NO",
-            "alt_keycode": "KC_NO",
+            "keycode": "LALT_T(KC_A)",
+            "alt_keycode": "KC_Z",
             "allowed_mods": 0,
-            "options": 0
+            "options": 10
         },
         {
             "keycode": "KC_NO",
