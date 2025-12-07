@@ -53,7 +53,7 @@
                 "KC_P",
                 "KC_X",
                 "KC_MINUS",
-                "KC_RBRACKET",
+                "LCTL(KC_KP_SLASH)",
                 "KC_BSLASH",
                 "C_S(KC_KP_PLUS)"
             ],
