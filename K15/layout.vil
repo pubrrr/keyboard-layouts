@@ -22,7 +22,7 @@
                 "KC_PSCREEN"
             ],
             [
-                "M1",
+                "M9",
                 "KC_GRAVE",
                 "KC_1",
                 "KC_2",
@@ -40,7 +40,7 @@
                 "C_S(KC_KP_MINUS)"
             ],
             [
-                "M2",
+                "M5",
                 "KC_TAB",
                 "TD(0)",
                 "KC_F13",
@@ -58,7 +58,7 @@
                 "C_S(KC_KP_PLUS)"
             ],
             [
-                "DF(2)",
+                "M8",
                 "KC_K",
                 "KC_H",
                 "LALT_T(KC_A)",
@@ -76,7 +76,7 @@
                 "LCTL(KC_KP_SLASH)"
             ],
             [
-                "DF(1)",
+                "M7",
                 "OSM(MOD_LSFT)",
                 -1,
                 "LT2(KC_F)",
@@ -94,10 +94,10 @@
                 "KC_UP"
             ],
             [
-                "DF(0)",
+                "M6",
+                "MO(5)",
                 "KC_LCTRL",
                 "KC_LGUI",
-                "KC_LALT",
                 -1,
                 "KC_SPACE",
                 -1,
@@ -135,7 +135,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
+                "M4",
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
@@ -592,29 +592,11 @@
             [
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS"
-            ],
-            [
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                -1,
+                "LCTL(KC_Q)",
+                "LCTL(KC_W)",
+                "LCTL(KC_E)",
+                "LCTL(KC_R)",
+                "LCTL(KC_T)",
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
@@ -627,13 +609,31 @@
             ],
             [
                 "KC_TRNS",
+                "LCTL(KC_Y)",
+                "LCTL(KC_A)",
+                "LCTL(KC_S)",
+                "RCTL(KC_D)",
+                "LCTL(KC_F)",
+                -1,
+                "RCTL(KC_G)",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS",
+                "KC_TRNS"
+            ],
+            [
+                "KC_TRNS",
                 "KC_TRNS",
                 -1,
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
-                "KC_TRNS",
+                "LCTL(KC_Z)",
+                "LCTL(KC_X)",
+                "LCTL(KC_C)",
+                "LCTL(KC_V)",
+                "LCTL(KC_B)",
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
@@ -705,12 +705,82 @@
                 "KC_SPACE"
             ]
         ],
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
+        [
+            [
+                "tap",
+                "LSFT(KC_EQUAL)",
+                "KC_SPACE"
+            ]
+        ],
+        [
+            [
+                "tap",
+                "LSFT(KC_EQUAL)",
+                "KC_SPACE",
+                "LSFT(KC_EQUAL)",
+                "KC_SPACE",
+                "LSFT(KC_EQUAL)",
+                "KC_SPACE",
+                "KC_ENTER"
+            ]
+        ],
+        [
+            [
+                "text",
+                "console.log"
+            ],
+            [
+                "tap",
+                "LSFT(KC_8)",
+                "LSFT(KC_9)",
+                "LSFT(KC_COMMA)",
+                "KC_LEFT",
+                "KC_LEFT"
+            ]
+        ],
+        [
+            [
+                "text",
+                "console.log"
+            ],
+            [
+                "tap",
+                "LSFT(KC_8)",
+                "LSFT(KC_2)",
+                "LCTL(KC_V)",
+                "LSFT(KC_2)",
+                "KC_COMMA",
+                "KC_SPACE",
+                "LCTL(KC_V)",
+                "LSFT(KC_9)",
+                "LSFT(KC_COMMA)"
+            ]
+        ],
+        [
+            [
+                "tap",
+                "LSFT(KC_8)",
+                "LSFT(KC_9)",
+                "KC_SPACE",
+                "LSFT(KC_0)",
+                "LSFT(KC_NONUS_BSLASH)",
+                "KC_SPACE",
+                "RALT(KC_7)",
+                "RALT(KC_0)",
+                "KC_LEFT",
+                "KC_ENTER"
+            ]
+        ],
+        [
+            [
+                "tap",
+                "LSFT(KC_EQUAL)",
+                "KC_SPACE",
+                "LCTL(KC_V)",
+                "LSFT(KC_EQUAL)",
+                "KC_SPACE"
+            ]
+        ],
         [],
         [],
         [],
@@ -950,30 +1020,30 @@
     ],
     "key_override": [
         {
-            "trigger": "KC_NO",
-            "replacement": "KC_NO",
+            "trigger": "KC_2",
+            "replacement": "M1",
             "layers": 65535,
-            "trigger_mods": 0,
+            "trigger_mods": 34,
             "negative_mod_mask": 0,
             "suppressed_mods": 0,
-            "options": 9
+            "options": 1
         },
         {
             "trigger": "KC_F14",
-            "replacement": "KC_U",
+            "replacement": "KC_Z",
             "layers": 65535,
             "trigger_mods": 0,
-            "negative_mod_mask": 64,
+            "negative_mod_mask": 34,
             "suppressed_mods": 0,
             "options": 7
         },
         {
             "trigger": "KC_F14",
-            "replacement": "KC_LBRACKET",
+            "replacement": "M4",
             "layers": 65535,
-            "trigger_mods": 64,
+            "trigger_mods": 34,
             "negative_mod_mask": 0,
-            "suppressed_mods": 0,
+            "suppressed_mods": 34,
             "options": 7
         },
         {
