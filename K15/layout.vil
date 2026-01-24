@@ -54,7 +54,7 @@
                 "KC_X",
                 "KC_MINUS",
                 "LCTL(KC_KP_SLASH)",
-                "KC_BSLASH",
+                "KC_DELETE",
                 "C_S(KC_KP_PLUS)"
             ],
             [
@@ -465,7 +465,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
-                "KC_TRNS",
+                "M4",
                 "KC_TRNS",
                 "KC_TRNS",
                 "KC_TRNS",
@@ -649,7 +649,7 @@
                 "KC_TRNS",
                 "KC_TRNS",
                 -1,
-                "KC_TRNS",
+                "LCTL(KC_SPACE)",
                 -1,
                 "KC_TRNS",
                 -1,
